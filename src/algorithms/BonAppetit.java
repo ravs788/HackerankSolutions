@@ -1,10 +1,6 @@
 package algorithms;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class BonAppetit {
 	public static void main(String args[] ) throws Exception {
